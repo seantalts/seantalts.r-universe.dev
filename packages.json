@@ -2,6 +2,7 @@
   {
     "package": "stanli",
     "url": "https://github.com/seantalts/stanli",
-    "subdir": "r"
+    "subdir": "r",
+    "branch": "*release"
   }
 ]
